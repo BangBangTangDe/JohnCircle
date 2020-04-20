@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\JonasLee\Desktop\项目\260队列项目\Heretics\main.cpp(5,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\JonasLee\Desktop\项目\260队列项目\Heretics\main.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  Heretics.vcxproj -> C:\Users\JonasLee\Desktop\项目\260队列项目\Heretics\Debug\Heretics.exe
